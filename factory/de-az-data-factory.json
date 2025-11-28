@@ -1,0 +1,9 @@
+{
+	"name": "de-az-data-factory",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e468f1f-e60b-4633-bc24-4e8b12cdf9fc",
+		"tenantId": "de5449f3-85d0-4055-8896-bbd5b5467a17"
+	}
+}
